@@ -238,7 +238,7 @@
         <div class="row">
 
           <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
-            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">Lets get started with our <strong> your product</strong> our passion.</h1>
+            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">Lets get started with <strong> your product</strong> our passion.</h1>
           </div>
 
           <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">

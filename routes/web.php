@@ -21,15 +21,15 @@ Route::get('/', function () {
 });
 
 Route::get('/work', function () {
-    return view('welcome');
+    return view('work');
 });
 
 Route::get('/hire-me', function () {
-    return view('welcome');
+    return view('hire-me');
 });
 
-Route::get('/send-mail', 'StudyController@sendmail');
+// Route::get('/send-mail', 'StudyController@sendmail');
 
-Route::get('/study','StudyController@routing');
+// Route::get('/study','StudyController@routing');
 
 

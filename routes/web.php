@@ -4,6 +4,10 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Redis;
 use App\Models\CourseType;
 
+if (App::environment('production')) {
+    URL::forceScheme('https');
+}
+
 
 /*
 |--------------------------------------------------------------------------

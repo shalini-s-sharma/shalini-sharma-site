@@ -25,7 +25,7 @@
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="{{ asset('assets/index.html') }}">
+            <a class="navbar-brand" href="{{ url('/') }}">
               <i class="fa fa-line-chart"></i>
               <!-- Digital Trend -->
             </a>

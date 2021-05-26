@@ -182,4 +182,137 @@
                </div>
           </div>
      </section>
+
+     <section class="project section-padding" id="project">
+          <div class="container-fluid">
+               <div class="row">
+
+                    <div class="col-lg-12 col-12 py-5 mt-5 mb-3 text-center">
+
+                      <h1 class="mb-4" data-aos="fade-up">Things i love</h1>
+                      <p>Using the best tools for the right task enable the best outcome. Below you will find a list of some of the most proven tools there are to use right now at the development landscape. Make sure you visit my GitHub profile for more information about my toolchain and development workflow.</p>
+                    </div>
+                    
+                  
+
+               </div>
+          </div>
+     </section>
+
+     <!-- TESTIMONIAL -->
+     <section class="project-detail">
+          <div class="container">
+               <div class="row">
+               <div class="col-lg-3 col-3 py-3 mt-3 mb-3 text-center">
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/basecamp.png" class="img-fluid" alt="male avatar">
+
+                         <p>Basecamp</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/bootstrap.png" class="img-fluid" alt="male avatar">
+
+                         <p>Bootstrap</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/elasticsearch.png" class="img-fluid" alt="male avatar">
+
+                         <p>Elasticsearch</p>
+                         </div>
+                    </div>
+          
+               </div>
+
+               <div class="col-lg-3 col-3 py-3 mt-3 mb-3 text-center">
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/github.png" class="img-fluid" alt="male avatar">
+
+                         <p>Github</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/gitlab.png" class="img-fluid" alt="male avatar">
+
+                         <p>Gitlab</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://tuannguyen.tech/wp-content/uploads/2019/08/github-logo.png" class="img-fluid" alt="male avatar">
+
+                         <p>BitBucket</p>
+                         </div>
+                    </div>
+               </div>
+
+               <div class="col-lg-3 col-3 py-3 mt-3 mb-3 text-center">
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/codeigniter.png" class="img-fluid" alt="male avatar">
+
+                         <p>CodeIgniter</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/laravel.png" class="img-fluid" alt="male avatar">
+
+                         <p>Laravel</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://brandeps.com/logo-download/Y/Yii-logo-vector-01.svg" class="img-fluid" alt="male avatar">
+
+                         <p>Yii</p>
+                         </div>
+                    </div>
+               </div>
+
+               <div class="col-lg-3 col-3 py-3 mt-3 mb-3 text-center">
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/jquery.png" class="img-fluid" alt="male avatar">
+
+                         <p>Jquery</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/mongodb.png" class="img-fluid" alt="male avatar">
+
+                         <p>Mongodb</p>
+                         </div>
+                    </div>
+
+                    <div class="client-info">
+                         <div class="d-flex justify-content-center align-items-center mt-3">
+                         <img src="https://alextselegidis.com/wp-content/uploads/2021/01/mysql.png" class="img-fluid" alt="male avatar">
+
+                         <p>Mysql</p>
+                         </div>
+                    </div>
+
+               </div>
+
+          </div>
+          </div>
+     </section>
 @endsection

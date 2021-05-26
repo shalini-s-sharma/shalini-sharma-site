@@ -81,7 +81,7 @@
             <p class="copyright-text">Shalini Sharma &copy; 2021 
             <br>
           </div>
-
+<!-- 
           <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
             
             <ul class="footer-link">
@@ -90,16 +90,16 @@
               <li><a href="#">Contact</a></li>
             
             </ul>
-          </div>
+          </div> -->
 
-          <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
+          <!-- <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
             <ul class="social-icon">
               <li><a href="#" class="fa fa-instagram"></a></li>
               <li><a href="#" class="fa fa-twitter"></a></li>
               <li><a href="#" class="fa fa-dribbble"></a></li>
               <li><a href="#" class="fa fa-behance"></a></li>
             </ul>
-          </div>
+          </div> -->
 
         </div>
       </div>

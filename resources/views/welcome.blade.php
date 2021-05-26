@@ -11,9 +11,9 @@
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                               <div class="hero-text">
 
-                                   <h1 class="text-white" data-aos="fade-up">Let get started with our project now!</h1>
+                                   <h1 class="text-white" data-aos="fade-up">Get started with your project now!</h1>
 
-                                   <a href="contact.html') }}" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Interested in starting a new project!</a>
+                                   <a href="{{ url('hire-me') }}" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Interested in starting a new project!</a>
 
                                    <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-phone mr-2"></i> +91 9716856665</strong>
                               </div>
@@ -70,7 +70,7 @@
 
                          <div class="owl-carousel owl-theme" id="project-slide">
                               <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="{{ asset('assets/images/project/project-image01.jpg') }}" class="img-fluid" alt="project image">
+                                   <img src="{{ asset('assets/images/project/tcm.png') }}" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Website</small>
@@ -85,13 +85,13 @@
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('assets/images/project/project-image02.jpg') }}" class="img-fluid" alt="project image">
+                                   <img src="{{ asset('assets/images/project/peppydesk.png') }}" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Website</small>
 
                                         <h3>
-                                             <a href="https://www.peppydesk.com/">
+                                             <a href="https://www.peppydesk.com/" target="_blank">
                                                   <span>Peppy Desk</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
@@ -100,13 +100,13 @@
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('assets/images/project/project-image03.jpg') }}" class="img-fluid" alt="project image">
+                                   <img src="{{ asset('assets/images/project/peppyproject.png') }}" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Website</small>
 
                                         <h3>
-                                             <a href="https://www.peppyprojects.com/">
+                                             <a href="https://www.peppyprojects.com/" target="_blank">
                                                   <span>Peppy Project</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
@@ -115,13 +115,13 @@
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('assets/images/project/project-image04.jpg') }}" class="img-fluid" alt="project image">
+                                   <img src="{{ asset('assets/images/project/interviewpro.png') }}" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Website</small>
 
                                         <h3>
-                                             <a href="https://www.interviewpro.in/">
+                                             <a href="https://www.interviewpro.in/" target="_blank">
                                                   <span>Interview pro</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
@@ -130,14 +130,14 @@
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('assets/images/project/project-image05.jpg') }}" class="img-fluid" alt="project image">
+                                   <img src="{{ asset('assets/images/project/ielts.png') }}" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Website</small>
 
                                         <h3>
-                                             <a href="project-detail.html') }}">
-                                                  <span>Ultimate HealthCare</span>
+                                             <a href="https://live.ieltsmaterial.com/" target="_blank">
+                                                  <span>Ieltsmaterial</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a> 
                                         </h3>
